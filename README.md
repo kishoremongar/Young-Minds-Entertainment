@@ -1,2 +1,4 @@
 # Young-Minds-Entertainment
- young hearts colorful minds
+Made using only HTML and CSS
+First Project to have used CSS
+
